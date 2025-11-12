@@ -1,60 +1,53 @@
-# LAB-5-Student-registration-system
-### AIM:
-To develop a project Student Registration System using Rational Rose Software and to
-implement the software in Java.
-### PROBLEM ANALYSIS AND PROJECT PLANNING:
-A Student Registration system (SRS) is a software application for educational
-establishments to manage student data. Student information systems provide capabilities for
-entering student test and other assessment scores, building student schedules, tracking student
-attendance, and managing many other student-related data needs in a school, college or
-university.
-### PROBLEM STATEMENT:
-a. Effective for Administration Purpose
-b. Cost effective
-c. Better Service
-### UML DIAGRAMS:
+# Exp - 5 STUDENT ENROLLMENT SYSTEM
 
-### USE CASE DIAGRAM:
+# AIM:
+To design and develop a Student Enrollment System for managing student registration, course selection, and record maintenance effectively.
+# SRS (Procedure):
+1.Identify the objectives and scope of the system.
 
+2.Collect and analyze user and system requirements.
 
-<img width="1142" height="897" alt="usecase" src="https://github.com/user-attachments/assets/2b0e87f7-2aa5-403e-9b50-225489c3f844" />
+3.Specify functional and non-functional requirements.
+
+4.Prepare, review, and finalize the SRS document
+# DIAGRAMS:
+```python
+Usecase Diagram
+```
+
+<img width="842" height="839" alt="image" src="https://github.com/user-attachments/assets/ce775a85-5536-4106-ae5c-cabfb480bd18" />
 
 
+```python
+Class Diagram
+```
 
-### CLASS DIAGRAM:
+<img width="1206" height="870" alt="image" src="https://github.com/user-attachments/assets/5f6ab0aa-1856-487f-a67d-e2a5e4abc801" />
 
+```python
+Sequence Diagram
+```
+<img width="648" height="573" alt="image" src="https://github.com/user-attachments/assets/146478ed-692b-4c20-aef0-1b0063b1ecfd" />
 
-<img width="1146" height="920" alt="classdiagram" src="https://github.com/user-attachments/assets/9c9488a8-fc51-4022-8b57-d8e735007fd5" />
+```python
+Activity Diagram
+```
 
+<img width="754" height="878" alt="image" src="https://github.com/user-attachments/assets/dbf594be-d2a8-492e-bd3c-81db4c02ef82" />
 
+```python
+Communication Diagram
+```
 
-### PACKAGE DIAGRAM:
+<img width="1025" height="723" alt="image" src="https://github.com/user-attachments/assets/331097b3-ce67-4b3f-a09a-193be826992e" />
 
+```python
+Package Diagram
+```
 
-<img width="1143" height="917" alt="package" src="https://github.com/user-attachments/assets/d8c75cbf-27fd-429a-b60b-27da8872d9eb" />
-
-
-
-### SEQUENCE DIAGRAM:
-
-
-<img width="1145" height="916" alt="sequence" src="https://github.com/user-attachments/assets/23ec77e6-1056-4fb7-98f7-b8dfcc4958f8" />
-
-
-
-### ACTIVITY DIAGRAM:
-
-
-<img width="1142" height="912" alt="activity" src="https://github.com/user-attachments/assets/f5d36355-0f60-4e7b-a180-97808951bfed" />
-
-
-
-### COMMUNICATION DIAGRAM:
-
-
-<img width="1157" height="931" alt="communication" src="https://github.com/user-attachments/assets/a7c0f23c-bb2f-4a3d-ae03-b7e34af96a2a" />
+<img width="1187" height="865" alt="image" src="https://github.com/user-attachments/assets/cd9f96a9-437d-44b8-8a1c-e657caac7b4f" />
 
 
 
-### RESULT:
-Thus the Student information system project was executed and the output was verified.
+# RESULT:
+The Student Enrollment System was successfully designed and implemented, ensuring smooth management of student registration and course enrollment processes.
